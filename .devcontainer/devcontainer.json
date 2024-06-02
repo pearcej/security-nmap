@@ -4,9 +4,10 @@
         "../docker-compose.yml"
     ],
     "service": "victim",
-    "workspaceFolder": "/workspace",
+    "workspaceFolder": "/",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
     "extensions": []
 }
+
