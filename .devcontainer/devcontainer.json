@@ -10,6 +10,6 @@
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
-  "postCreateCommand": "docker-compose up -d",
+  "postCreateCommand": "docker-compose up --build --detach",
   "remoteUser": "vscode"
 }
