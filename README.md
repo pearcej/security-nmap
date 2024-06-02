@@ -1,4 +1,4 @@
-### Codespace for [Lab 4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_hash_it_out](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap)
+### Codespace for [Lab 4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap)
 
 ## Computer Systems Security: Planning for Success by Ryan Tolboom
 
