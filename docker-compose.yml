@@ -1,15 +1,6 @@
 version: '3'
 services:
   victim:
-    build:
-      context: .
-      dockerfile: victim/Dockerfile
-    volumes:
-      - .:/workspace
-    # other service-specific configurations
+    build: ./victim
   scanner:
-    build:
-      context: .
-      dockerfile: scanner/Dockerfile
-    volumes:
-      - .:/workspace
+    build: ./scanner
