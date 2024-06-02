@@ -1,15 +1,13 @@
 {
   "name": "Computer Systems Security - nmpap lab",
   "dockerComposeFile": "docker-compose.yml",
-  "service": "victim",
-  "workspaceFolder": "/nmap",
-  "shutdownAction": "stopCompose",
+  "service": "victim",  // specify the primary service you want to attach to
+  "workspaceFolder": "/workspace",
   "extensions": [
-    "ms-azuretools.vscode-docker"
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools"
   ],
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
-  },
-  "postCreateCommand": "docker-compose up --build --detach",
-  "remoteUser": "vscode"
+  }
 }
