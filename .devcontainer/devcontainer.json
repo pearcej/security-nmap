@@ -1,7 +1,6 @@
 {
-  "name": "Computer Systems Security - nmpap lab",
-  "dockerComposeFile": "docker-compose.yml",
-  "service": "victim",  // specify the primary service you want to attach to
+  "name": "Computer Systems Security nmpap lab",
+  "service": "victim",
   "workspaceFolder": "/workspace",
   "extensions": [
     "ms-vscode.cpptools",
