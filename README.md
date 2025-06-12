@@ -1,4 +1,4 @@
-### Codespace for [7.4 Lab: Linux File Permissions](https://web.njit.edu/~rt494/security/#_lab_linux_file_permissions)
+### Codespace for [Lab 4.5. Lab: Scanning with Nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap)
 
 ## Computer Systems Security: Planning for Success by Ryan Tolboom
 
